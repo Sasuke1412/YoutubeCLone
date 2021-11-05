@@ -1,0 +1,9 @@
+.no-videos-width {
+  width: 10%;
+}
+.empty-item-display {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
